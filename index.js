@@ -21,3 +21,4 @@ function moveDodgerLeft() {
   const DODGER = document.getElementById('dodger');
   const GAME_WIDTH = 400;
   const DODGER_WIDTH = 40;
+  console.log("test")
